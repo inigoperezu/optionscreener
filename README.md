@@ -1,7 +1,7 @@
-Welcome to my project
+## Welcome to my project
 Here you will have a simple explanation of what you will find
 
-## 1.- Dashboard with Slider
+## 1.- Dashboard with Slider
 This is the main app in which i am working. IS a complete dashboard able to show the data of the main option strategies and compute which is the best combination.
 
 ## 2.- Dashboard. PY
